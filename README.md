@@ -108,7 +108,7 @@ A list of all of the fonts in the default "data - 28256 - 32k.bin"   character f
 28  	Sinclair Spectrum Font			3584-3711
 29  	Signetics Font				3712-3839
 30  	GenDon 3-61 ianmav Font			3840-3967
-31 	GenDon 3-6A ianmav Font		3968-4095
+31 	GenDon 3-6A ianmav Font		        3968-4095
 
 
 
