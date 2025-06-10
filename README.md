@@ -41,8 +41,8 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 +----------+          ¦ 'd' : duplicate char set  chars:1-26 to 65-91    'ESC' : clear screen and refresh
                       ¦ '0' : blank current char                         'i' : inverse current char
 
-</pre>
 
+Layout:
 - The first line shows the current binary character file that has been loaded, then which character set name is chosen.<br>
 - The next line shows the character set range of that is being edited.<br>
 - The next line is the x,y position of the bit being edited in the single character, then the character number in the file and the binary and hex values of the character selected<br>
@@ -52,8 +52,8 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 - Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show a longer list of up to 129 characters created in a list.<br>
 - To show all of them clearly, often your CMD window needs setting to see a wider output, done often by ctrl-scroll Mouse rolling.<br>
 
-Movement:&ensp n to move to next char and b to move back one char<br>
-&ensp&ensp N to jump 128 chars forward to the next set of chars, B moves back 128 chars<br>
+Movement: n to move to next char and b to move back one char<br>
+          N to jump 128 chars forward to the next set of chars, B moves back 128 chars<br>
           
 Editing:  arrow keys to move around the character space. - HTML <br>
           Space to toggle the current bit on and off <br>
@@ -67,7 +67,7 @@ Quit:     q to exit without saving <br>
 Load/Save s saves the current data into a bin file and r rereads the char bin file <br>
 View file y creates outimage.bmp file and m opens it for viewing allowing you to see all fonts available <br>
 
-          
+</pre>          
 
 <p>&nbsp</p>
 <p>&nbsp</p>
