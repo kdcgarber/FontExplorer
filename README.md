@@ -57,12 +57,12 @@ Movement: <b>n</b> to move to next char and <b>b</b> to move back one char
           <b>N</b> to jump 128 chars forward to the next set of chars, B moves back 128 chars
           
 Editing:  <b>arrow keys</b> to move around the character space.
-          <b>Space/<b> to toggle the current bit on and off 
+          <b>Space</b> to toggle the current bit on and off 
           <b>v</b> sets a bit on and moves to the next bit 
           <b>c</b> removes the current bit and moves to the next bit <
           <b>d</b> duplicates the current set of 1-26 chars to the 65-91 set of chars in the current set 
           <b>0</b> blanks the current char of all bits 
-          <b>i<b> inverts all the bits in the char to the reverse of the current char value 
+          <b>i</b> inverts all the bits in the char to the reverse of the current char value 
           <b>ESC</b> key refreshes the screen 
 Quit:     <b>q</b> to exit without saving 
 Load/Save <b>s</b> saves the current data into a bin file and r rereads the char bin file 
