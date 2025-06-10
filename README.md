@@ -1,5 +1,5 @@
-![Font-editor](/images/trs-80MotherboardKeyBoard3.jpg?rawtrue Header)
-![5v-Power-supply-change](/images/trs-80MotherboardKeyBoard3.jpg?raw=true "Header")
+![Font-editor](/images/trs-80MotherboardKeyBoard3.jpg?rawtrue "Header")
+
 # FontEditor
 
 This is the tool I extended to create and edit fonts for the rom replacement I created. https://alnwlsn.com/projectrepository/index.php?titleTRS-80_Model_1_-_Character_ROM
@@ -16,8 +16,8 @@ https://fontstruct.com/gallery/tag/7045/5x8
 <p>&nbsp</p>
 <p>&nbsp</p>
 
-<img srchttps://github.com/kdcgarber/Font-editor/blob/main/images/FontEditorScreen.png width7200 height600>
-<img srchttps://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp width7200 height600>
+<img src "https://github.com/kdcgarber/Font-editor/blob/main/images/FontEditorScreen.png" width7200 height600>
+<img src "https://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp width7200" height600>
 
 <p>&nbsp</p>
 <p>&nbsp</p>
