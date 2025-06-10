@@ -73,7 +73,7 @@ View file y creates outimage.bmp file and m opens it for viewing allowing you to
 <p>&nbsp</p>
 
 
-All the fonts in the default "data - 28256 - 32k.bin"   character file
+A list of all of the fonts in the default "data - 28256 - 32k.bin"   character file
 
 <pre>
 
