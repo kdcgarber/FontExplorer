@@ -51,8 +51,8 @@ Layout:
 - If you choose the letter 'z', a new line listing the character is display showing fist the default 8-character listing.
 - Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show a longer list of up to 129 characters created in a list.
 - To show all of them clearly, often your CMD window needs setting to see a wider output, done often by ctrl-scroll Mouse rolling.
-<p>&nbsp</p>
-<p>&nbsp</p>
+
+
 Movement: <b>n</b> to move to next char and <b>b</b> to move back one char
           <b>N</b> to jump 128 chars forward to the next set of chars, B moves back 128 chars
           
