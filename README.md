@@ -17,7 +17,7 @@ https://fontstruct.com/gallery/tag/7045/5x8
 <p>&nbsp</p>
 
 <img src="https://github.com/kdcgarber/Font-editor/blob/main/images/FontEditorScreen.png" width7200 height600>
-<img src="https://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp width7200" height600>
+<img src="https://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp" width7200 height600>
 
 <p>&nbsp</p>
 <p>&nbsp</p>
