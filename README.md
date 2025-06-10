@@ -44,19 +44,19 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 
 Layout:
 - The first line shows the current binary character file that has been loaded, then which character 
-   set name is chosen.
+  set name is chosen.
 - The next line shows the character set range of that is being edited.
 - The next line is the x,y position of the bit being edited in the single character, then the character 
-   number in the file and the binary and hex values of the character selected
+  number in the file and the binary and hex values of the character selected
 - The next is a section that shows the current bits for the 5x8 character its hex value per row and 
-   then the menu of options available.
+  then the menu of options available.
 
 - If you choose the letter 'z', a new line listing the character is display showing fist the default 
-   8-character listing.
+  8-character listing.
 - Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show 
-   a longer list of up to 129 characters created in a list.
+  a longer list of up to 129 characters created in a list.
 - To show all of them clearly, often your CMD window needs setting to see a wider output, done often 
-   by ctrl-scroll Mouse rolling.
+  by ctrl-scroll Mouse rolling.
 
 
 Movement: <b>n</b> to move to next char and <b>b</b> to move back one char
