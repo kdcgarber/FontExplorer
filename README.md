@@ -52,7 +52,7 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 3  	Classic 5x8 Font			384-511
 4  	Grinched Font				512-639
 5  	Spacerock Minecraft Font		640-767
-6 	 Not Like Dot Matrix Font		768-895
+6 	Not Like Dot Matrix Font		768-895
 7  	Apridot Font				896-1023
 8  	Wind Blown Font				1024-1151
 9  	Spicy Pixels Font			1152-1279
@@ -77,7 +77,7 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 28  	Sinclair Spectrum Font			3584-3711
 29  	Signetics Font				3712-3839
 30  	GenDon 3-61 ianmav Font			3840-3967
-31 	 GenDon 3-6A ianmav Font		3968-4095
+31 	GenDon 3-6A ianmav Font		3968-4095
 
 
 
