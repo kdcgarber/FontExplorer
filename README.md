@@ -51,21 +51,22 @@ Layout:
 - If you choose the letter 'z', a new line listing the character is display showing fist the default 8-character listing.
 - Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show a longer list of up to 129 characters created in a list.
 - To show all of them clearly, often your CMD window needs setting to see a wider output, done often by ctrl-scroll Mouse rolling.
-
-Movement: <b>n</b> to move to next char and b to move back one char
-          N to jump 128 chars forward to the next set of chars, B moves back 128 chars
+<p>&nbsp</p>
+<p>&nbsp</p>
+Movement: <b>n</b> to move to next char and <b>b</b> to move back one char
+          <b>N</b> to jump 128 chars forward to the next set of chars, B moves back 128 chars
           
-Editing:  arrow keys to move around the character space.
-          Space to toggle the current bit on and off 
-          v sets a bit on and moves to the next bit 
-          c removes the current bit and moves to the next bit <
-          d duplicates the current set of 1-26 chars to the 65-91 set of chars in the current set 
-          0 blanks the current char of all bits 
-          i inverts all the bits in the char to the reverse of the current char value 
-          ESC key refreshes the screen 
-Quit:     q to exit without saving 
-Load/Save s saves the current data into a bin file and r rereads the char bin file 
-View file y creates outimage.bmp file and m opens it for viewing allowing you to see all fonts available 
+Editing:  <b>arrow keys</b> to move around the character space.
+          <b>Space/<b> to toggle the current bit on and off 
+          <b>v</b> sets a bit on and moves to the next bit 
+          <b>c</b> removes the current bit and moves to the next bit <
+          <b>d</b> duplicates the current set of 1-26 chars to the 65-91 set of chars in the current set 
+          <b>0</b> blanks the current char of all bits 
+          <b>i<b> inverts all the bits in the char to the reverse of the current char value 
+          <b>ESC</b> key refreshes the screen 
+Quit:     <b>q</b> to exit without saving 
+Load/Save <b>s</b> saves the current data into a bin file and r rereads the char bin file 
+View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing you to see all fonts available 
 
 </pre>          
 
