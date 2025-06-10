@@ -43,29 +43,29 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 
 
 Layout:
-- The first line shows the current binary character file that has been loaded, then which character set name is chosen.<br>
-- The next line shows the character set range of that is being edited.<br>
-- The next line is the x,y position of the bit being edited in the single character, then the character number in the file and the binary and hex values of the character selected<br>
-- The next is a section that shows the current bits for the 5x8 character its hex value per row and then the menu of options available.<br>
+- The first line shows the current binary character file that has been loaded, then which character set name is chosen.
+- The next line shows the character set range of that is being edited.
+- The next line is the x,y position of the bit being edited in the single character, then the character number in the file and the binary and hex values of the character selected
+- The next is a section that shows the current bits for the 5x8 character its hex value per row and then the menu of options available.
 
-- If you choose the letter 'z', a new line listing the character is display showing fist the default 8-character listing.<br>
-- Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show a longer list of up to 129 characters created in a list.<br>
-- To show all of them clearly, often your CMD window needs setting to see a wider output, done often by ctrl-scroll Mouse rolling.<br>
+- If you choose the letter 'z', a new line listing the character is display showing fist the default 8-character listing.
+- Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show a longer list of up to 129 characters created in a list.
+- To show all of them clearly, often your CMD window needs setting to see a wider output, done often by ctrl-scroll Mouse rolling.
 
-Movement: n to move to next char and b to move back one char<br>
-          N to jump 128 chars forward to the next set of chars, B moves back 128 chars<br>
+Movement: n to move to next char and b to move back one char
+          N to jump 128 chars forward to the next set of chars, B moves back 128 chars
           
-Editing:  arrow keys to move around the character space. - HTML <br>
-          Space to toggle the current bit on and off <br>
-          v sets a bit on and moves to the next bit <br>
-          c removes the current bit and moves to the next bit <br>
-          d duplicates the current set of 1-26 chars to the 65-91 set of chars in the current set <br>
-          0 blanks the current char of all bits <br>
-          i inverts all the bits in the char to the reverse of the current char value <br>
-          ESC key refreshes the screen <br>
-Quit:     q to exit without saving <br>
-Load/Save s saves the current data into a bin file and r rereads the char bin file <br>
-View file y creates outimage.bmp file and m opens it for viewing allowing you to see all fonts available <br>
+Editing:  arrow keys to move around the character space. - HTML 
+          Space to toggle the current bit on and off 
+          v sets a bit on and moves to the next bit 
+          c removes the current bit and moves to the next bit <
+          d duplicates the current set of 1-26 chars to the 65-91 set of chars in the current set 
+          0 blanks the current char of all bits 
+          i inverts all the bits in the char to the reverse of the current char value 
+          ESC key refreshes the screen 
+Quit:     q to exit without saving 
+Load/Save s saves the current data into a bin file and r rereads the char bin file 
+View file y creates outimage.bmp file and m opens it for viewing allowing you to see all fonts available 
 
 </pre>          
 
