@@ -52,10 +52,10 @@ Layout:
 - Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show a longer list of up to 129 characters created in a list.
 - To show all of them clearly, often your CMD window needs setting to see a wider output, done often by ctrl-scroll Mouse rolling.
 
-Movement: n to move to next char and b to move back one char
+Movement: <b>n</b> to move to next char and b to move back one char
           N to jump 128 chars forward to the next set of chars, B moves back 128 chars
           
-Editing:  arrow keys to move around the character space. - HTML 
+Editing:  arrow keys to move around the character space.
           Space to toggle the current bit on and off 
           v sets a bit on and moves to the next bit 
           c removes the current bit and moves to the next bit <
