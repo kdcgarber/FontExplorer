@@ -4,15 +4,10 @@
 
 This is the tool I extended to create and edit fonts for the rom replacement I created. 
 
-<p>&nbsp</p>
-<p>&nbsp</p>
-
 It is a C program that I origally found and have altered with lots of other features, 
 but the base was wonderful and started me out with the editor and ablitiy to read/write/edit a binary file for the fonts and output the graphic file also.
-( https://alnwlsn.com/projectrepository/index.php?title=TRS-80_Model_1_-_Character_ROM )
+https://alnwlsn.com/projectrepository/index.php?title=TRS-80_Model_1_-_Character_ROM
 My additions were just for moving/displaying/coping/recreating and outputing based on size, file info and the keys available menu.
-
-
 
 I used these sites to help get me started on fonts to create 5X7 and 5X8 examples:
 - https://fontstruct.com/gallery/tag/386/5x7?licensedownloadable&orderby-sharing-date&categoryuncategorized&dirdesc&page2
