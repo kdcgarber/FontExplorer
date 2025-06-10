@@ -53,7 +53,7 @@ Layout:
 
 - If you choose the letter <b>z</b>, a new line listing the character is display showing fist the default 
   8-character listing.
-- Then if you choose the number '<b>8</b>' for 8 char '<b>6</b>' for 16 chars '<b>2'</b>:32 '<b>4</b>':64 '<b>1<b>':128 will show 
+- Then if you choose the number '<b>8</b>' for 8 char '<b>6</b>' for 16 chars '<b>2'</b>:32 '<b>4</b>':64 '<b>1</b>':128 will show 
   a longer list of up to 129 characters created in a list.
 - To show all of them clearly, often your CMD window needs setting to see a wider output, done often 
   by ctrl-scroll Mouse rolling.
