@@ -1,4 +1,4 @@
-![Lowercase-Character-IC-Replacement/fontEditor(/images/trs-80MotherboardKeyBoard3.jpg?rawtrue Header)
+![Font-editor](/images/trs-80MotherboardKeyBoard3.jpg?rawtrue Header)
 # FontEditor
 
 This is the tool I extended to create and edit fonts for the rom replacement I created. https://alnwlsn.com/projectrepository/index.php?titleTRS-80_Model_1_-_Character_ROM
