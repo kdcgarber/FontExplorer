@@ -10,21 +10,23 @@ https://alnwlsn.com/projectrepository/index.php?title=TRS-80_Model_1_-_Character
 
 My additions were just for moving/displaying/coping/recreating and outputing based on size, file info and the keys available menu.
 
-I used these sites to help get me started on fonts to create 5X7 and 5X8 examples:
+I also used these sites to help get me started on fonts to create 5X7 and 5X8 examples:
 - https://fontstruct.com/gallery/tag/386/5x7?licensedownloadable&orderby-sharing-date&categoryuncategorized&dirdesc&page2
 - https://fontstruct.com/gallery/tag/7045/5x8
 <p>&nbsp</p>
 <p>&nbsp</p>
 
+
+Sample screen shot of the tool running from a windows command prompt
 <img src="https://github.com/kdcgarber/Font-editor/blob/main/images/FontEditorScreen.png" width7200 height600>
+This is the output of all the fonts - done with the 'm' choice in the tool.
 <img src="https://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp" width7200 height600>
 
 <p>&nbsp</p>
 <p>&nbsp</p>
 
 <pre>
-
-File In Use: data - 28256 - 32k.bin             Char Set: 17     Char Set Name:
+File In Use: data - 28256 - 32k.bin             Char Set: 17     Char Set Name: "My Model-1 Font"
 Char in char set (1-128): 1
 Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 +----------+  Hex     ¦ 'N' Jump 128 char forward                        'B' Jump 128 char backward
@@ -41,8 +43,37 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 
 </pre>
 
+The first line shows the current binary character file that has been loaded, then which character set name is chosen.
+The next line shows the character set range of that is being edited.
+The next line is the x,y position of the bit being edited in the single character, then the character number in the file and the binary and hex values of the character selected
+The next is a section that shows the current bits for the 5x8 character its hex value per row and then the menu of options available.
+
+If you choose the letter 'z', a new line listing the character is display showing fist the default 8-character listing.
+Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show a longer list of up to 129 characters created in a list.
+To show all of them clearly, often your CMD window needs setting to see a wider output, done often by ctrl-scroll Mouse rolling.
+
+Movement:  n to move to next char and b to move back one char
+           N to jump 128 chars forward to the next set of chars, B moves back 128 chars
+          
+Editing:  arrow keys to move around the character space. 
+          Space to toggle the current bit on and off
+          v sets a bit on and moves to the next bit
+          c removes the current bit and moves to the next bit
+          d duplicates the current set of 1-26 chars to the 65-91 set of chars in the current set
+          0 blanks the current char of all bits
+          i inverts all the bits in the char to the reverse of the current char value
+          ESC key refreshes the screen 
+Quit:     q to exit without saving
+Load/Save s saves the current data into a bin file and r rereads the char bin file
+View file y creates outimage.bmp file and m opens it for viewing allowing you to see all fonts available
+
+          
+
 <p>&nbsp</p>
 <p>&nbsp</p>
+
+
+All the fonts in the default "data - 28256 - 32k.bin"   character file
 
 <pre>
 
