@@ -52,8 +52,8 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 - Then if you choose the number '8' for 8 char '6' for 16 chars '2':32 '4':64 '1':128 will show a longer list of up to 129 characters created in a list.<br>
 - To show all of them clearly, often your CMD window needs setting to see a wider output, done often by ctrl-scroll Mouse rolling.<br>
 
-Movement:  n to move to next char and b to move back one char<br>
-           N to jump 128 chars forward to the next set of chars, B moves back 128 chars<br>
+Movement:&ensp n to move to next char and b to move back one char<br>
+&ensp&ensp N to jump 128 chars forward to the next set of chars, B moves back 128 chars<br>
           
 Editing:  arrow keys to move around the character space. - HTML <br>
           Space to toggle the current bit on and off <br>
