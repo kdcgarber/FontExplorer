@@ -2,19 +2,22 @@
 
 # FontEditor
 
-This editor is for editing characters of 5x8 in size. The characters are then stored in a set of 128 chars per set in a binary file totaling 32 character sets.
-This data ican then be used to write to a EEROM like the one I used, a  28256 - 32k ROM for my TRS-80 model 1. (AT28C256-15SU-T)
-It also supports other files with a few changes, which I originally used and the config values are still in the code and can be resused.
+This editor allows you to edit characters that are 5x8 pixels in size.
+The characters are stored in sets of 128 characters each, in a binary file. 
+The file contains a total of 32 character sets. 
+This data can then be used to write to an EEROM like the one I used, a 28256 - 32k ROM for my TRS-80 model 1. (AT28C256-15SU-T) 
+It also supports other files sizes with a few changes, which are sizes I originally used, and the config values are still in the code and can be reused.
 
-It is a C program that I origally found and have altered with lots of other features, 
-but the base was wonderful and started me out with the editor and ablitiy to read/write/edit a binary file for the fonts and output the graphic file also.
+It is a C program that I originally found and have altered with lots of other features, 
+but the base was wonderful and started me out with the editor and ability to read/write/edit a binary file for the fonts and output the graphic file also. 
 https://alnwlsn.com/projectrepository/index.php?title=TRS-80_Model_1_-_Character_ROM
 
-My additions were just for moving/displaying/coping/recreating and outputing based on size, file info and the keys available menu.
+My additions were just for moving/displaying/coping/recreating and outputting based on size, file info and the keys available menu.
+I  used various websites to help me create 5x7 and 5x8 font examples. Here are some of the resources I found helpful:
 
-I also used these sites to help get me started on fonts to create 5X7 and 5X8 examples:
 - https://fontstruct.com/gallery/tag/386/5x7?licensedownloadable&orderby-sharing-date&categoryuncategorized&dirdesc&page2
 - https://fontstruct.com/gallery/tag/7045/5x8
+
 <p>&nbsp</p>
 <p>&nbsp</p>
 
