@@ -36,9 +36,9 @@ Char in char set (1-128): 1
 Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 +----------+  Hex     ¦ 'N' Jump 128 char forward                        'B' Jump 128 char backward
 ¦--¦¦¦¦¦¦  ¦  0e      ¦ left  arrow : move cursor left                   ' ' : spacebar toggles dot on and off
-¦¦¦      ¦¦¦  11      ¦ right arrow : move cursor right                  'c' : remove a dot and move forward a posssion
-¦        ¦¦¦  01      ¦ down  arrow : move cursor down                   'v' : add a dot and moves forward a possion
-¦  ¦¦¦¦  ¦¦¦  0d      ¦ up    arrow : move cusor up                      'q' : quit
+¦¦¦      ¦¦¦  11      ¦ right arrow : move cursor right                  'c' : remove a dot and move forward a position
+¦        ¦¦¦  01      ¦ down  arrow : move cursor down                   'v' : add a dot and moves forward a position
+¦  ¦¦¦¦  ¦¦¦  0d      ¦ up    arrow : move cursor up                     'q' : quit
 ¦¦¦  ¦¦  ¦¦¦  15      ¦ 'y' : send chars to a bmp file                   'm' : display bmp file via MSEdge
 ¦¦¦  ¦¦  ¦¦¦  15      ¦ 'n' : move to the next character                 's' : save the data<name>.bin file
 ¦  ¦¦¦¦¦¦  ¦  0e      ¦ 'b' : move to the previous character             'r' : read the data<name>.bin file
@@ -47,6 +47,10 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
                       ¦ '0' : blank current char                         'i' : inverse current char
 
 
+
+
+
+---
 Layout:
 - The first line shows the current binary character file that has been loaded, then which character 
   set name is chosen.
@@ -125,6 +129,9 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 
 
 </pre>
+
+
+# Usage
 
 <p>&nbsp</p>
 <p>&nbsp</p>
