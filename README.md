@@ -148,9 +148,12 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 <p>&nbsp</p>
 ## License
 
-<span style="font-size:4px;">
+
+
 This project is licensed under the [MIT License](LICENSE) - Copyright 2025 Todd Garber<br><br>
 [MIT License](./LICENSE)
+
+<span style="font-size:4px;">
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>
