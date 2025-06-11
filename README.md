@@ -50,7 +50,8 @@ Pos: 0, 0     char: 2048  Bin:00000000  Hex:4000
 
 
 
----
+</pre>
+<pre>
 Layout:
 - The first line shows the current binary character file that has been loaded, then which character 
   set name is chosen.
