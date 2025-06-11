@@ -20,6 +20,7 @@ I also used these sites to help get me started on fonts to create 5X7 and 5X8 ex
 ## Sample screen shot of the tool running from a windows command prompt
 <img src="https://github.com/kdcgarber/Font-editor/blob/main/images/FontEditorScreen.png" width7200 height600>
 
+
 ## This is the output of all the fonts - done with the 'm' choice in the tool.
 <img src="https://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp" width7200 height600>
 
@@ -129,11 +130,11 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 
 ## License
 
-<span style="font-size:4px;">
+<h3>
 This project is licensed under the MIT License - Copyright 2025 Todd Garber<br><br>
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br>
-</span>
+</h3>
 
 #### https://opensource.org/license/mit
