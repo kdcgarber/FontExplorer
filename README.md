@@ -2,8 +2,9 @@
 
 # FontEditor
 
-This editor edits 5x8 characters for a binary file for 32 character sets using a  28256 - 32k ROM for my TRS-80 model 1.
-It also supports other files with a few changes, which I originally used.
+This editor is for editing characters of 5x8 in size. The characters are then stored in a set of 128 chars per set in a binary file totaling 32 character sets.
+This data ican then be used to write to a EEROM like the one I used, a  28256 - 32k ROM for my TRS-80 model 1. (AT28C256-15SU-T)
+It also supports other files with a few changes, which I originally used and the config values are still in the code and can be resused.
 
 It is a C program that I origally found and have altered with lots of other features, 
 but the base was wonderful and started me out with the editor and ablitiy to read/write/edit a binary file for the fonts and output the graphic file also.
@@ -138,10 +139,17 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 <p>&nbsp</p>
 <p>&nbsp</p>
 
+
+
+
+
+<p>&nbsp</p>
+<p>&nbsp</p>
+<p>&nbsp</p>
 ## License
 
 <span style="font-size:4px;">
-This project is licensed under the MIT License - Copyright 2025 Todd Garber<br><br>
+This project is licensed under the [MIT License](LICENSE] - Copyright 2025 Todd Garber<br><br>
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br>
