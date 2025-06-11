@@ -2,7 +2,7 @@
 
 # FontEditor
 
-This is the tool I extended to create and edit fonts for the rom replacement I created. 
+This editor edits 5x8 characters for a biaary file for a rom for my TRS-80 model 1.
 
 It is a C program that I origally found and have altered with lots of other features, 
 but the base was wonderful and started me out with the editor and ablitiy to read/write/edit a binary file for the fonts and output the graphic file also.
