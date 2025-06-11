@@ -2,7 +2,8 @@
 
 # FontEditor
 
-This editor edits 5x8 characters for a binary file for a ROM for my TRS-80 model 1.
+This editor edits 5x8 characters for a binary file for 32 character sets using a  28256 - 32k ROM for my TRS-80 model 1.
+It also supports other files with a few changes, which I originally used.
 
 It is a C program that I origally found and have altered with lots of other features, 
 but the base was wonderful and started me out with the editor and ablitiy to read/write/edit a binary file for the fonts and output the graphic file also.
@@ -20,7 +21,7 @@ I also used these sites to help get me started on fonts to create 5X7 and 5X8 ex
 ## Sample screen shot of the tool running from a windows command prompt
 <img src="https://github.com/kdcgarber/Font-editor/blob/main/images/FontEditorScreen.png" width7200 height600>
 
-
+<p>&nbsp</p>
 ## This is the output of all the fonts - done with the 'm' choice in the tool.
 <img src="https://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp" width7200 height600>
 
