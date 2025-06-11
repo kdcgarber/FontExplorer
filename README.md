@@ -17,14 +17,16 @@ I also used these sites to help get me started on fonts to create 5X7 and 5X8 ex
 <p>&nbsp</p>
 
 
-Sample screen shot of the tool running from a windows command prompt
+## Sample screen shot of the tool running from a windows command prompt
 <img src="https://github.com/kdcgarber/Font-editor/blob/main/images/FontEditorScreen.png" width7200 height600>
-This is the output of all the fonts - done with the 'm' choice in the tool.
+
+## This is the output of all the fonts - done with the 'm' choice in the tool.
 <img src="https://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp" width7200 height600>
 
 <p>&nbsp</p>
 <p>&nbsp</p>
 
+## Notes
 <pre>
 File In Use: data - 28256 - 32k.bin             Char Set: 17     Char Set Name: "My Model-1 Font"
 Char in char set (1-128): 1
@@ -80,7 +82,7 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 <p>&nbsp</p>
 
 
-A list of all of the fonts in the default "data - 28256 - 32k.bin"   character file
+## A list of all of the fonts in the default "data - 28256 - 32k.bin"   character file
 
 <pre>
 
@@ -127,10 +129,12 @@ A list of all of the fonts in the default "data - 28256 - 32k.bin"   character f
 
 ## License
 
-### This project is licensed under the MIT License -
-### Copyright 2025 Todd Garber
-### Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-### The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-### THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+<span style="font-size:20px;">
+This project is licensed under the MIT License -
+Copyright 2025 Todd Garber
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+</span>
 
 ### https://opensource.org/license/mit
