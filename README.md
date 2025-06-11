@@ -22,6 +22,7 @@ I also used these sites to help get me started on fonts to create 5X7 and 5X8 ex
 <img src="https://github.com/kdcgarber/Font-editor/blob/main/images/FontEditorScreen.png" width7200 height600>
 
 <p>&nbsp</p>
+
 ## This is the output of all the fonts - done with the 'm' choice in the tool.
 <img src="https://github.com/kdcgarber/font-editor/blob/main/images/outimage.bmp" width7200 height600>
 
