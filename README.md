@@ -149,6 +149,6 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - Copyright 2025 Todd Garber<br><br>
+This project is licensed under the [MIT License](LICENSE.md) - Copyright 2025 Todd Garber<br><br>
 
 
