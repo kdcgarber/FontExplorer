@@ -89,10 +89,7 @@ Load/Save <b>s</b> saves the current data into a bin file and r rereads the char
 View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing you to see all fonts available 
 
 </pre>          
-
 <p>&nbsp</p>
-<p>&nbsp</p>
-
 
 ## A list of all of the fonts in the default "data - 28256 - 32k.bin"   character file
 
@@ -134,6 +131,7 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 
 
 </pre>
+<p>&nbsp</p>
 
 
 # Usage
@@ -145,7 +143,6 @@ I used this programmer to burn the ROMs that I have tested.
 I purchased this set a while ago from Amazon:   
 https://www.amazon.com/dp/B0121980T0
 https://www.amazon.com/dp/B09T65RSC5
-<p>&nbsp</p>
 <p>&nbsp</p>
 
 ## License
