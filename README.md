@@ -5,7 +5,7 @@
 This editor allows you to edit characters that are 5x8 pixels in size.
 The characters are stored in sets of 128 characters each, in a binary file. 
 The file contains a total of 32-character sets. 
-This data can then be used to write to an EEROM like the one I used, a 28256 - 32k ROM for my TRS-80 model 1. (AT28C256-15SU-T) 
+This data can then be used to write to an EEROM like the one I used, a 28256 - 32k ROM for my TRS-80 model 1 (AT28C256-15SU-T).
 It also supports other files sizes with a few changes, which are sizes I originally used, and the config values are still in the code and can be reused.
 
 This program morphed from code that I originally found and have altered with lots of other features, 
@@ -142,8 +142,13 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 <p>&nbsp</p>
 <p>&nbsp</p>
 
+The file that I used is included and can just be burned onto a EEPROM.  data - 28256 - 32k.bin
+The other bin files list their size and the file it could be added to and 2 other bin files.
 
-
+I used this programmer to burn the ROMs that I have tested.  
+I purchased this set a while ago from Amazon:   
+https://www.amazon.com/dp/B0121980T0
+https://www.amazon.com/dp/B09T65RSC5
 
 
 <p>&nbsp</p>
