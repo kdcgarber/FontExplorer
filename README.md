@@ -138,10 +138,6 @@ View file <b>y</b> creates outimage.bmp file and m opens it for viewing allowing
 
 # Usage
 
-<p>&nbsp</p>
-<p>&nbsp</p>
-<p>&nbsp</p>
-
 The file that I used is included and can just be burned onto a EEPROM.  data - 28256 - 32k.bin
 The other bin files list their size and the file it could be added to and 2 other bin files.
 
@@ -149,9 +145,6 @@ I used this programmer to burn the ROMs that I have tested.
 I purchased this set a while ago from Amazon:   
 https://www.amazon.com/dp/B0121980T0
 https://www.amazon.com/dp/B09T65RSC5
-
-
-<p>&nbsp</p>
 <p>&nbsp</p>
 <p>&nbsp</p>
 
