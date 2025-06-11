@@ -124,5 +124,7 @@ A list of all of the fonts in the default "data - 28256 - 32k.bin"   character f
 <p>&nbsp</p>
 <p>&nbsp</p>
 <p>&nbsp</p>
+
 ## License
+
 This project is licensed under the MIT License -
